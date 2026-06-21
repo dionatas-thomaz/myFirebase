@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myFirebase</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="login_button">Entrar</string>
+    <string name="task_hint">Nova tarefa</string>
+    <string name="add_button">Adicionar</string>
+    <string name="logout">Sair</string>
+</resources>
