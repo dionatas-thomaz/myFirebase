@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">myFirebase</string>
+    <string name="app_name">fort cria</string>
     <string name="email_hint">Email</string>
     <string name="password_hint">Senha</string>
     <string name="register_button">Cadastrar</string>
